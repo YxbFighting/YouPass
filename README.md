@@ -1,4 +1,6 @@
-# Youpass (Project for database)
+# Youpass
+
+Project for Database Course Design 2021 Summer | TJU.
 
 一、环境配置
 
