@@ -1,0 +1,1 @@
+Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST='1.116.229.91')(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)));Persist Security Info=True;User ID=c##test;Password=test;
