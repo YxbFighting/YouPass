@@ -1,6 +1,6 @@
 # Youpass
 
-Project for Database Course Design 2021 Summer | TJU.
+Project for Database Course Design 2021 Spring | TJU.
 
 
 
